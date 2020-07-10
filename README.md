@@ -26,11 +26,7 @@ Right now I am Doubt-Mentor at PREPBYTES where I helps students in Data Structur
 
 **CODING HANDLES** 🔢 
 
- 1.  [GeeksForGeeks Handle](http://auth.geeksforgeeks.org/user/sassycoder/)
- 2.  [LeetCode](https://leetcode.com/prajapatiswati4/)
- 3.  [Codechef](https://www.codechef.com/users/swati08)
- 4.  [Hackerrank](https://www.hackerrank.com/swatiprajapati08)
- 5.  [InterviewBit](https://www.interviewbit.com/profile/prajapatiswati49223)
+ 1.  [GeeksForGeeks Handle](http://auth.geeksforgeeks.org/user/sassycoder/) 2.  [LeetCode](https://leetcode.com/prajapatiswati4/) 3.  [Codechef](https://www.codechef.com/users/swati08)  4.  [Hackerrank](https://www.hackerrank.com/swatiprajapati08) 5.  [InterviewBit](https://www.interviewbit.com/profile/prajapatiswati49223)
  
   **Follow Me on :** [![alt text][1.1]][1]
   
