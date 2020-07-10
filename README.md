@@ -26,7 +26,7 @@ Right now I am Doubt-Mentor at PREPBYTES where I helps students in Data Structur
 
 **CODING HANDLES** 🔢 
 
- 1.  [GeeksForGeeks Handle](http://auth.geeksforgeeks.org/user/sassycoder/) 2.  [LeetCode](https://leetcode.com/prajapatiswati4/) 3.  [Codechef](https://www.codechef.com/users/swati08)  4.  [Hackerrank](https://www.hackerrank.com/swatiprajapati08) 5.  [InterviewBit](https://www.interviewbit.com/profile/prajapatiswati49223)
+1.  [GeeksForGeeks Handle](http://auth.geeksforgeeks.org/user/sassycoder/) 2.  [LeetCode](https://leetcode.com/prajapatiswati4/) 3.  [Codechef](https://www.codechef.com/users/swati08)  4.  [Hackerrank](https://www.hackerrank.com/swatiprajapati08) 5.  [InterviewBit](https://www.interviewbit.com/profile/prajapatiswati49223)
  
   **Follow Me on :** [![alt text][1.1]][1]
   
@@ -44,17 +44,6 @@ Right now I am Doubt-Mentor at PREPBYTES where I helps students in Data Structur
 
 [COVID TRACKER](https://github.com/swatiprajapati08/CoronaVirus-Tracker)
 
-Project descriptionI made this project using SpringBoot and Thymleaf.
-Functionality:
-Fetches the data of whole countries.
-Then by clicking each we can fetch the data according to state.
-
-
-
-[Covid-Tracker App](https://github.com/bellatrixdatacommunity/Covid19-Tracker-App)
-“ COVID-19 Tracker “ Mobile Application
-Under the Program “ Learn to Build “ by “ Bellatrix Data Community “ and “ Microsoft Student Partners “
-I contribute to COVID-19 Tracker using Flutter Framework and handle the REST API, fetch the data, and displays on the UI.
 
 
 
