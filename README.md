@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter App
-- 🌱 I’m currently learning Flutter and SpringBoot
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on DSA
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about OS,DSA
 - 📫 How to reach me: [LinkedIn ](linkedin.com/in/swati-prajapati-008/)
