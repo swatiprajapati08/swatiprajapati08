@@ -22,7 +22,7 @@
   <h3> I'm  Software Developer</h3>
 </p>
 
- - 🥀 Learning Python & Big Data doing #100DaysofCode :trophy:
+ - :trophy: Learning Python & Big Data doing #100DaysofCode 
  
  - :calling: Love to Talk about DSA, Marvel and Life experiences 
 
