@@ -6,14 +6,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Flutter App
-- 🌱 I’m currently learning Web Development
+- 🔭 I’m currently working on Python Project
+- 🌱 I’m currently learning Python and Big data
 - 👯 I’m looking to collaborate on DSA
-- 🤔 I’m looking for help with Flutter
+- 🤔 I’m looking for help with Python
 - 💬 Ask me about OS,DSA
 - 📫 How to reach me: [LinkedIn ](linkedin.com/in/swati-prajapati-008/)
 - 😄 Pronouns: She/Her
-<!--- ⚡ Fun fact: ... -->
 
 
 
@@ -27,6 +26,10 @@ Here are some ideas to get you started:
 3.  [Codechef](https://www.codechef.com/users/swati08)  
 4.  [Hackerrank](https://www.hackerrank.com/swatiprajapati08)
 5.  [InterviewBit](https://www.interviewbit.com/profile/prajapatiswati49223)
+
+![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=swatiprajapati08&show_icons=true&theme=tokyonight)&nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swatiprajapati08)](https://github.com/swatiprajapati08/github-readme-stats)
+
+
  
  
  
