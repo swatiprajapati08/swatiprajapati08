@@ -49,8 +49,8 @@
   
   **CODING HANDLES** 🔢 
 
-  [<img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" >](http://auth.geeksforgeeks.org/user/sassycoder/) <br/>
-  [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" >](https://leetcode.com/prajapatiswati4/)<br/>
+  [<img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" >](https://auth.geeksforgeeks.org/user/codertheta1/profile) <br/>
+  [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" >](https://leetcode.com/codertheta/)<br/>
   [<img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=black" >](https://www.codechef.com/users/swati08)  <br/>
   [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/swatiprajapati08) <br/>
 
