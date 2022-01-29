@@ -22,7 +22,7 @@
   <h3> I'm  Software Developer</h3>
 </p>
 
- - :trophy: Learning Python & Big Data doing #100DaysofCode 
+ - :trophy: Learning DSA and MERN Stack
  
  - :calling: Love to Talk about DSA, Marvel and Life experiences 
 
@@ -53,7 +53,7 @@
   [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" >](https://leetcode.com/codertheta/)<br/>
   [<img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=black" >](https://www.codechef.com/users/swati08)  <br/>
   [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/swatiprajapati08) <br/>
-
+[<img src="https://img.shields.io/badge/-LintCode-2E8BC0?style=for-the-badge&logo=LintCode&logoColor=white">](https://www.lintcode.com/user/swati6/) <br/>
 
 <br />
 
@@ -63,4 +63,18 @@
   <h1> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1> 
   </div>
 
-<img  height="450px" width="1000px"  alt="Tech stack" src="https://user-images.githubusercontent.com/42577922/133302011-eda22078-ba20-418d-be30-623cf3cf45e1.png" />
+<!-- <img  height="450px" width="1000px"  alt="Tech stack" src="https://user-images.githubusercontent.com/42577922/133302011-eda22078-ba20-418d-be30-623cf3cf45e1.png" /> -->
+
+<div align ="center">
+<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/>
+   <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
+   <img src="https://img.icons8.com/color/96/000000/css3.png"/>
+   <img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
+   <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
+   <img src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
+   <img src="https://img.icons8.com/color/96/000000/flutter.png"/>
+   <img src="https://img.icons8.com/color/96/000000/dart.png"/>
+   <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/>
+   </div>
+
