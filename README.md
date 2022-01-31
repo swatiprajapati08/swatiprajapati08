@@ -72,9 +72,9 @@
    <img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
    <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
 <!--    <img src="https://img.icons8.com/plasticine/100/000000/react.png"/> -->
-<!--    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/> -->
+   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
    <img src="https://img.icons8.com/color/96/000000/flutter.png"/>
    <img src="https://img.icons8.com/color/96/000000/dart.png"/>
-<!--    <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/> -->
+   <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/>
    </div>
 
