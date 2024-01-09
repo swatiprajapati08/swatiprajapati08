@@ -12,7 +12,7 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :woman_technologist:  Swati Prajapati | 💻 Java Developer | :india: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :woman_technologist:  Swati Prajapati | 💻 Backend Developer | :india: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
  
  
@@ -22,7 +22,7 @@
   <h3> I'm  Software Developer</h3>
 </p>
 
- - :trophy: Learning DSA and MERN Stack
+ - :trophy: Learning DSA and SpringBoot
  
  - :calling: Love to Talk about DSA, Marvel and Life experiences 
 
