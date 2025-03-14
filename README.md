@@ -1,8 +1,6 @@
 <div align="center">
-   <h1> <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width ="35px"> &nbsp; Hi there, I'm Swati Prajapati &nbsp;  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>  &nbsp; Hi there, I'm Swati Prajapati &nbsp;  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
-   
-   <img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=20"> 
 </div>
 
 <p align='center'>
@@ -17,34 +15,81 @@
  
  
 <br />
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatiprajapati08&label=Profile%20views&color=0e75b6&style=flat" alt="swatiprajapati08" /> </p>
+
 <img align="right" height="270px" width="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=swatiprajapati08&show_icons=true&theme=tokyonight" />
 <p align="center">
-  <h3> I'm  Software Developer</h3>
+  <h3> I'm Senior Software Developer</h3>
 </p>
 
- - :trophy: Learning DSA and SpringBoot
+ - 🌱 I’m currently learning **Kafka, SpringBoot and System Design**
  
- - :calling: Love to Talk about DSA, Marvel and Life experiences 
+ - :calling: Love to Talk about Systems, Marvel and Life experiences 
 
- - 👯 I’m looking to collaborate on Data Structure and Algorithm
+ - 🤝 I’m looking to collaborate on Data Structure and Algorithm
    
  - 🛸 Marvel fan :superhero:
  
  - 💻 I do Java and much of every thing :heart:
+   
+ - 📝 I regularly write articles on https://medium.com/@sassycoder08
+
+ - 📫 How to reach me **prajapatiswati4@gmail.com**
 
  -  :purple_heart: My Love :coffee: :pizza: :rice:
  
- - 💬 Connect? let's get social <br />
-     👉🏼 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" >](https://twitter.com/sassy_coder)
+ - 💬 Connect? let's get social 
+ <a href="https://twitter.com/sassy_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sassy_coder" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swati-prajapati-008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swati-prajapati-008" height="30" width="40" /></a>
+<a href="https://medium.com/@sassycoder08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sassycoder08" height="30" width="40" /></a>
 
-     👉🏼 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >](linkedin.com/in/swati-prajapati-008/)
- 
+<br />
+<br />
+
+<div align="center">
+  
+  <h1> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1> 
+  </div>
+
+<div align ="center">
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60" style="padding: 10px;" /> 
+</a>
+<a href="https://graphql.org" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="60" height="60" style="padding: 10px;" /> 
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60" style="padding: 10px;" /> 
+</a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="60" height="60" style="padding: 10px;" /> 
+</a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60" style="padding: 10px;" /> 
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" style="padding: 10px;" /> 
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" style="padding: 10px;" /> 
+</a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60" style="padding: 10px;" /> 
+</a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60" style="padding: 10px;" /> 
+</a>
+   </div>
+
+<br />
+<br />
+
 <div align="center">
   <h1>  Java | Competitive Programming | DSA </h1>
 </div>
-  
   <a href="https://github.com/swatiprajapati08/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatiprajapati08" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=swatiprajapati08&show_icons=true&locale=en&layout=compact" alt="swatiprajapati08" />
 </a>
   
   **CODING HANDLES** 🔢 
@@ -56,25 +101,10 @@
 [<img src="https://img.shields.io/badge/-LintCode-2E8BC0?style=for-the-badge&logo=LintCode&logoColor=white">](https://www.lintcode.com/user/swati6/) <br/>
 
 <br />
-
-<br />
 <div align="center">
-  
-  <h1> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1> 
-  </div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swatiprajapati08&" alt="swatiprajapati08" /></p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swatiprajapati08" alt="swatiprajapati08" /></a> </p>
+ -->
+</div>
 
-<!-- <img  height="450px" width="1000px"  alt="Tech stack" src="https://user-images.githubusercontent.com/42577922/133302011-eda22078-ba20-418d-be30-623cf3cf45e1.png" /> -->
-
-<div align ="center">
-<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/>
-   <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
-   <img src="https://img.icons8.com/color/96/000000/css3.png"/>
-   <img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
-   <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
-<!--    <img src="https://img.icons8.com/plasticine/100/000000/react.png"/> -->
-   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
-   <img src="https://img.icons8.com/color/96/000000/flutter.png"/>
-   <img src="https://img.icons8.com/color/96/000000/dart.png"/>
-   <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/>
-   </div>
 
